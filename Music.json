@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Matue",
+    "imdb": 9.9,
+    "date": "2023",
+    "sposter": "img/matue-2.jpg",
+    "bposter": "img/matue.png",
+    "genre": "rapper",
+    "type": "series",
+    "url": "1-Player/Matue.html"
+  },
+
+  {
+    "name": "Matue, Teto, Wiu",
+    "imdb": 9.9,
+    "date": "2023",
+    "sposter": "img/30praum.png",
+    "bposter": "img/matue, teto, wiu.jpg",
+    "genre": "rappers",
+    "type": "series",
+    "url": "1-Player/30praum.html"
+  },
+
+  {
+    "name": "lil uzi vert",
+    "imdb": 9.9,
+    "date": "2023",
+    "sposter": "img/Lil-Uzi-Vert-1.png",
+    "bposter": "img/Lil-Uzi-Vert-2.png",
+    "genre": "trap",
+    "type": "movie",
+    "url": "#"
+  },
+  {
+    "name": "scarlxrd",
+    "imdb": 9.3,
+    "date": "2023",
+    "sposter": "img/scarlxrd-1.jpg",
+    "bposter": "img/scarlxrd-2.jpg",
+    "genre": "Rapper",
+    "type": "movie",
+    "url": "#"
+  },
+  {
+    "name": "xamã",
+    "imdb": 9.3,
+    "date": "2023",
+    "sposter": "img/xamã-1.jpg",
+    "bposter": "img/xamã-2.jpg",
+    "genre": "rapper",
+    "type": "series",
+    "url": "#"
+  },
+  {
+    "name": "orochi",
+    "imdb": 9.6,
+    "date": "2023 ",
+    "sposter": "img/orochi-1.png",
+    "bposter": "img/orochi-2.png",
+    "genre": "rapper",
+    "type": "series",
+    "url": "#"
+  },
+  {
+    "name": "Legiao Urbana",
+    "imdb": 8.9,
+    "date": "2021",
+    "sposter": "img/legiao urbana-1.png",
+    "bposter": "img/legiao urbana-2.png",
+    "genre": "Action",
+    "type": "series",
+    "url": "#"
+  },
+  {
+    "name": "Avenged Sevenfold",
+    "imdb": 9.8,
+    "date": "2023",
+    "sposter": "img/Avenged Sevenfold-2.png",
+    "bposter": "img/Avenged Sevenfold-1.png",
+    "genre": "progressive metal",
+    "type": "movie",
+    "url": "#"
+  },
+  {
+    "name": "Gorillaz",
+    "imdb": 9.5,
+    "date": "2022",
+    "sposter": "img/Gorillaz-1.jpg",
+    "bposter": "img/Gorillaz-2.png",
+    "genre": "Action",
+    "type": "movie",
+    "url": "#"
+  },
+
+  {
+    "name": "Teto",
+    "imdb": 9.2,
+    "date": "2023",
+    "sposter": "img/teto-2.jpg",
+    "bposter": "img/teto.jpg",
+    "genre": "rapper",
+    "type": "series",
+    "url": "#"
+  },
+  {
+    "name": "GHOSTEMANE",
+    "imdb": 9.3,
+    "date": "2023",
+    "sposter": "img/GHOSTEMANE-1.jpg",
+    "bposter": "img/GHOSTEMANE-2.jpg",
+    "genre": "Action",
+    "type": "movie",
+    "url": "#"
+  },
+  {
+    "name": "Eminem",
+    "imdb": 9.9,
+    "date": "2023",
+    "sposter": "img/eminem-1.jpg",
+    "bposter": "img/eminem-2.jpg",
+    "genre": "rapper",
+    "type": "movie",
+    "url": "#"
+  },
+  {
+    "name": "Sub Urban",
+    "imdb": 9.0,
+    "date": "2023",
+    "sposter": "img/sub urban-1.png",
+    "bposter": "img/sub urban-2.png",
+    "genre": "electronics",
+    "type": "movie",
+    "url": "#"
+  },
+
+  {
+    "name": "Wiu",
+    "imdb": 9.8,
+    "date": "2022",
+    "sposter": "img/wiu-2.jpg",
+    "bposter": "img/wiu.png",
+    "genre": "rapper",
+    "type": "series",
+    "url": "#"
+  },
+  {
+    "name": "50 Cent",
+    "imdb": 9.7,
+    "date": "2022",
+    "sposter": "img/50 cent-1.jpg",
+    "bposter": "img/50 cent-2.jpg",
+    "genre": "rap",
+    "type": "movie",
+    "url": "#"
+  },
+  {
+    "name": "Ghost",
+    "imdb": 9.9,
+    "date": "2023",
+    "sposter": "img/Ghost-1.png",
+    "bposter": "img/Ghost-2.png",
+    "genre": "heavy metal",
+    "type": "movie",
+    "url": "#"
+  }
+]
